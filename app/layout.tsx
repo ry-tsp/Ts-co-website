@@ -27,6 +27,9 @@ export const metadata: Metadata = {
   title: "Thompson Street",
   description:
     "Thompson Street advises companies on frontier technology, regulatory policy, and financial systems.",
+  icons: {
+    icon: "/favicon.png",
+  },
   openGraph: {
     title: "Thompson Street",
     description:
