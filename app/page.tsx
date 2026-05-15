@@ -26,9 +26,8 @@ export default function HomePage() {
         <div className="font-ibm font-normal text-[18px] leading-[1.8] tracking-[0.01em] text-ink space-y-5">
           <p>
             We enter conversations to change them. We produce original
-            analysis, genuine research, and custom data. We help build products
-            that draw influential partners, policymakers, and journalists to
-            you.
+            analysis, research, and data. We help draw influential partners,
+            policymakers, and journalists to you.
           </p>
           <p>
             We prefer retainer engagements with a small number of clients.
