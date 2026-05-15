@@ -32,8 +32,8 @@ export default function HomePage() {
           <p>
             We prefer retainer engagements with a small number of clients.
             Project-based work if the fit is right. We scope engagements
-            tightly. We bill only for work that matters. We will tell you when
-            you do not have a problem we can solve.
+            tightly. We will tell you when you do not have a problem we can
+            solve.
           </p>
         </div>
       </section>
